@@ -8,4 +8,7 @@ public class Test {
 	public void test2(){
 		int i=0;
 	}
+	public void test3(){
+		
+	}
 }
