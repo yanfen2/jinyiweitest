@@ -17,4 +17,6 @@ public class Test {
 		int a=0;
 	}
 	public void testhe(){}
+	
+	public void testhde(){}
 }
