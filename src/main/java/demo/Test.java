@@ -11,4 +11,5 @@ public class Test {
 	public void test3(){
 		int a=0;
 	}
+	public void testhe(){}
 }
