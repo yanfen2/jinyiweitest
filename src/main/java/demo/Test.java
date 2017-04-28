@@ -10,8 +10,10 @@ public class Test {
 		int i=0;
 	}
 	
-	public void test3(){
+/*	public void test3(){
+		int a=0;
+	}*/
+	public void test4(){
 		int a=0;
 	}
-	public void test4(){}
 }
