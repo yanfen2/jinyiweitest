@@ -1,9 +1,5 @@
 package guard.test;
 
-public class dierci {
- 
-	
-	
-	int a;
-	a=1;
+public class dierci {		
+	int a=0;
 }
