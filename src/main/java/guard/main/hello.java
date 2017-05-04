@@ -1,5 +1,5 @@
 package guard.main;
 
 public class hello {
-	String fdsf="";
+	//String fdsf="";
 }
