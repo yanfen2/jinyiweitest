@@ -16,7 +16,5 @@ public class Test {
 	public void test4(){
 		int a=0;
 	}
-	public void testhe(){}
-	
-	public void testhde(){}
+
 }

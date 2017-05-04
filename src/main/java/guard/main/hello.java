@@ -1,4 +1,4 @@
-package guard.test;
+package guard.main;
 
 public class hello {
 	String fdsf="";
